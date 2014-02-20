@@ -1,9 +1,9 @@
 {
-  "name": "microtask",
-  "version": "0.1.4",
+  "name": "kaerus-component-microtask",
   "description": "microtask",
+  "version": "0.1.4",
   "keywords": [
-    "microTask", 
+    "microtask",
     "nextTick",
     "setImmediate",
     "setTimeout",
@@ -11,30 +11,6 @@
     "messageChannel",
     "postMessage"
   ],
-  "author": { 
-    "name": "Kaerus",
-    "email": "contact@kaerus.com",
-    "web": "http://kaerus.com"
-  },
-  "contributors": [
-    "anders elo <anders@kaerus.com>"
-  ],
-  "devDependencies": {
-    "mocha": "*",
-    "chai": "*",
-    "should": "*",
-    "mocha-phantomjs":"*"
-  },
-  "bugs": {
-    "url": "https://github.com/kaerus-component/microTask/issues"
-  },
-  "scripts": {
-    "test":"make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/kaerus-component/microTask.git"
-  },
-  "main": "index.js",
-  "license": "APACHE2_0"
+  "dependencies": {},
+  "license": "Apache2_0"
 }
